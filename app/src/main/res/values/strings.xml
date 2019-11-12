@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment03</string>
+    <string name="layouts">Layouts</string>
+    <string name="ucsc">UCSC</string>
+    <string name="_2019">2019</string>
+    <string name="ayubowan">ආයුබෝවන්</string>
+    <string name="ast">**</string>
+    <string name="mit3206">MIT3206</string>
+    <string name="and">AND</string>
+    <string name="mit3106">MIT3106</string>
+</resources>
